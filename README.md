@@ -22,3 +22,9 @@ The Home Depot dataset contains instructions for assessors who labelled the data
 3. Double the number of documents for the evaluation, and repeat steps (1) and (2).
 
 The next stage is to find two additional datasets, reuse the developed pipeline, and provide the comparison results. In conclusion, provide metric-driven guidance on what can be done without pre-existing labelled data and which models offer the best balance of speed and performance.
+
+
+## References
+- (Improving Pinterest Search Relevance Using Large Language Models)[https://arxiv.org/html/2410.17152v1]
+- (Training and Finetuning Embedding Models with Sentence Transformers)[https://huggingface.co/blog/train-sentence-transformers]
+- (Learning to Rank ES Plugin)[https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/]

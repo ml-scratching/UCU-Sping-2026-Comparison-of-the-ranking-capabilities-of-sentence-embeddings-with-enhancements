@@ -77,6 +77,7 @@ The output is not just a trained model — it is a set of concrete, metric-backe
 - Evaluation of doubling the LLM-based dataset
 
 **Out of scope:**
+- LLM fine-tuning using QLoRA (it's acceptable to pull this task if the team has the desire to do that)
 - Production deployment or real-time inference optimization
 - Multi-language or cross-lingual embedding evaluation
 - Custom LTR plugin development
