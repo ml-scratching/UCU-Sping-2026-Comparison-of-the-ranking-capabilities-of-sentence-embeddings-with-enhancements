@@ -1,5 +1,11 @@
 # UCU-Sping-2026-Comparison-of-the-ranking-capabilities-of-sentence-embeddings-with-enhancements
 
+## Planning Artifacts
+* [PRD](_bmad-output/planning-artifacts/prd-workspace.md)
+* [Product Brief](_bmad-output/planning-artifacts/product-brief-workspace.md)
+* [Product Tech Brief](_bmad-output/planning-artifacts/product-tech-brief-workspace.md)
+
+
 ## Project description
 ### Intro
 
@@ -25,6 +31,6 @@ The next stage is to find two additional datasets, reuse the developed pipeline,
 
 
 ## References
-- (Improving Pinterest Search Relevance Using Large Language Models)[https://arxiv.org/html/2410.17152v1]
-- (Training and Finetuning Embedding Models with Sentence Transformers)[https://huggingface.co/blog/train-sentence-transformers]
-- (Learning to Rank ES Plugin)[https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/]
+- [Improving Pinterest Search Relevance Using Large Language Models](https://arxiv.org/html/2410.17152v1)
+- [Training and Finetuning Embedding Models with Sentence Transformers](https://huggingface.co/blog/train-sentence-transformers)
+- [Learning to Rank ES Plugin](https://elasticsearch-learning-to-rank.readthedocs.io/en/latest/)
