@@ -68,7 +68,7 @@ The output is not just a trained model — it is a set of concrete, metric-backe
 
 **In scope:**
 - Home Depot dataset (multi-field: title, description, brand, category, colour)
-- One additional LTR dataset (to be identified)
+- At least one additional LTR dataset (to be identified)
 - Elasticsearch + LTR plugin as the evaluation platform
 - Sentence-transformers models and HuggingFace-available embedding models
 - XGBoost and Rank SVM as LTR algorithms for signals fusion
@@ -78,10 +78,14 @@ The output is not just a trained model — it is a set of concrete, metric-backe
 
 **Out of scope:**
 - LLM fine-tuning using QLoRA (it's acceptable to pull this task if the team has the desire to do that)
+- Feature engineering using engagement data
+- Engagement-based embeddings
+- Personalized search
 - Production deployment or real-time inference optimization
 - Multi-language or cross-lingual embedding evaluation
 - Custom LTR plugin development
 - User-facing search interface
+
 
 ## Vision
 
